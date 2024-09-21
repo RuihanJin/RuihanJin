@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RuihanJin
-- 📫 Reach me via jrh20@mails.tsinghua.edu.cn
+- 📫 Reach me via jinrh24@mails.tsinghua.edu.cn
 
 <!---
 RuihanJin/RuihanJin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
